@@ -68,5 +68,4 @@ cd noteriser
   <img src="https://img.shields.io/badge/-Docker Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-AWS-fc8c03?style=flat-square&logo=amazon&logoColor=black" alt="AWS" />
 </p>
